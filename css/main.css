@@ -1,0 +1,13 @@
+body {
+  font-family: "Avenir Next";
+}
+
+.header-logo{
+    float: left;
+}
+
+.main-wrapper {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
